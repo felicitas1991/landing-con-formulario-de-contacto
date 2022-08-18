@@ -1,0 +1,17 @@
+/*nav*/
+.bg-dark {background-color:#6b033c!important;}
+button:focus{outline:0}
+.navbar-dark .navbar-toggler {border:0}img{width:100%}
+
+/*cabeceras*/
+.jumbotron {background:#E43F6F;color:#fff;border-radius:0}
+header.jumbotron.interior {background:#f3bfd0;color:#fff; }
+h2::after{content:""; display:block;height:3px;width:80px;background-color:#ccc;margin-top:8px}
+
+
+/*articles*/
+article .img-fluid{width:100%}
+.item{width:30%;}
+.card-img-top{width: 100%;}
+
+div.owl-item.active{text-align: center;}
